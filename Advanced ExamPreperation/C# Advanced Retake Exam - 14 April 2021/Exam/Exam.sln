@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam", "Exam.csproj", "{25A5CC06-1B2A-4DA4-95DB-35E35145C777}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMario", "..\SuperMario\SuperMario.csproj", "{30F05E5A-6CF5-4FE6-9449-B69505A975DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarmWinter", "..\WarmWinter\WarmWinter.csproj", "{CCDBC7D9-62C1-4687-BCEF-0C1C4104B976}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25A5CC06-1B2A-4DA4-95DB-35E35145C777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25A5CC06-1B2A-4DA4-95DB-35E35145C777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25A5CC06-1B2A-4DA4-95DB-35E35145C777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25A5CC06-1B2A-4DA4-95DB-35E35145C777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30F05E5A-6CF5-4FE6-9449-B69505A975DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F05E5A-6CF5-4FE6-9449-B69505A975DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F05E5A-6CF5-4FE6-9449-B69505A975DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F05E5A-6CF5-4FE6-9449-B69505A975DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCDBC7D9-62C1-4687-BCEF-0C1C4104B976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCDBC7D9-62C1-4687-BCEF-0C1C4104B976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCDBC7D9-62C1-4687-BCEF-0C1C4104B976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCDBC7D9-62C1-4687-BCEF-0C1C4104B976}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {707F3629-0DFE-4AD4-A7B7-D669AE1F9A0D}
+	EndGlobalSection
+EndGlobal

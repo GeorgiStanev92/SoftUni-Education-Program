@@ -1,0 +1,13 @@
+﻿@model int
+@{
+    ViewData["Title"] = "Number Generator";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<ul>
+    @for (int i = 1; i <= Model; i++)
+    {
+        <li>@i</li>
+    }
+</ul>
